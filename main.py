@@ -7,6 +7,6 @@ import torch
 import torchvision
 import torchvision.transforms as transforms
 import torchvision.datasets as datasets
-import torch.optim as optim
-import torch.nn as nn
+from torch import nn, optim
+
 
